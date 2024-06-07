@@ -33,7 +33,7 @@ This Python script is a simple file integrity monitor that uses the `watchdog` l
 1. **Run the script:**
 
     ```bash
-    python file_integrity_monitor.py
+    python main.py
     ```
 
 2. **Enter the file path to monitor when prompted:**
